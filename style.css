@@ -1,0 +1,26 @@
+.jumbotron{
+	text-align: center;
+	background: teal;
+	color: #ccc;
+	font-size: 20px;
+}
+.display-6{
+	font-size: 60px;
+	color: #fff;
+	font-family: serif;
+	font-weight: 900;
+}
+img{
+	float: left;
+}
+p{
+	font-family: italic;
+	color: green;
+}
+#abr{
+	color: orange;
+}
+nav{
+	color: teal;
+	font-size: 25px;
+}
